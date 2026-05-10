@@ -12,6 +12,6 @@ option "operating_currency" "USD"
   precision: 2
 
 include "./accounts/index.bean"
-include "./data/index.bean"
+include "./journal/index.bean"
 include "./budgets/index.bean"
 include "./assertion/index.bean"
